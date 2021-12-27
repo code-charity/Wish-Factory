@@ -23,14 +23,16 @@ Of course we have to prioritize.  However chances are, a volunteer will share yo
 
 EXAMPE |  Youtube Dislike Count    
 ------------ | -------------   
-*Problem*     | Youtube will hide the amount of dislikes. This used to help me quickly identify some controversial, bad or misunderstood videos.   <br> Examples: 1. _________  2. _________ 3. _________   ............
+*Problem*     | Youtube will hide the amount of dislikes but this used to help me quickly identify some controversial, bad or misunderstood videos.   <br> Examples: 1. _________  2. _________ 3. _________   ............
+*Scope*       | Maybe a billion people considered this information repeatedly before, so it might be worth for many of them to individually decide to keep up the 'habit or 'declutter. 
+*Side effects*| Those video creators embarassed/sad about many dislikes. Which can be serious down-votes as well as some kind of silly herd behavior or 'bullying        
+*Context*     | https://blog.youtube/news-and-events/update-to-youtube/
 *Solution*    | No complete solution besides convincing Youtube to undo.  
 *Temporary Solution:* | Archiving the dislike-count from billions of videos (http://wiki.archiveteam.org/index.php/YouTube#Removal_of_public_video_dislikes_.28December_2021.29)<br> And displaying it in the same, familar way through a browser extension. (https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/). 
 *Activism / <br> Particial Solution:* | The browser extension is also counting dislikes of their users, which might allow them to closely guess the future like/dislike-ratio by extrapolation, for those videos, where the group of extension users is similarily diverse as Youtube's audience.
-*Alternatives*       | 
-*Scope*       | Maybe a billion people considered this information repeatedly before, so it might be worth for many of them to individually decide to keep up the 'habit or 'declutter.   <br> *Limitation of the particial solution*: A majortity of people voting on Youtube do not yet decide to install any browser Extensions. However this found a million users within weeks.
-*Side effects*| Those video creators embarassed/sad about many dislikes. Which can be serious down-votes as well as some kind of silly herd behavior or 'bullying        
-*Context*     | https://blog.youtube/news-and-events/update-to-youtube/
+*Scope/Limitation of the particial solution*: | A majortity of people voting on Youtube do not yet decide to install any browser Extensions. However this found a million users within weeks.
+
+
 
 
 
