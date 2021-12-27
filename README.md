@@ -23,7 +23,7 @@ Of course we have to prioritize.  However chances are, a volunteer will share yo
 
 EXAMPE |  Youtube Dislike Count    
 ------------ | -------------   
-*Problem*     | Youtube will hide the amount of dislikes. This used to help me quickly identify some controversial, bad or misunderstood videos.   Examples: 1. _________ 2. _________ 3. _________  
+*Problem*     | Youtube will hide the amount of dislikes. This used to help me quickly identify some controversial, bad or misunderstood videos.   <br> Examples: 1. _________  2. _________ 3. _________   ............
 *Solution*    | No complete solution besides convincing Youtube to undo.  
 *Temporary Solution:* | Archiving the dislike-count from billions of videos (http://wiki.archiveteam.org/index.php/YouTube#Removal_of_public_video_dislikes_.28December_2021.29)<br> And displaying it in the same, familar way through a browser extension. (https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/). 
 *Activism / <br> Particial Solution:* | The browser extension is also counting dislikes of their users, which might allow them to closely guess the future like/dislike-ratio by extrapolation, for those videos, where the group of extension users is similarily diverse as Youtube's audience.
