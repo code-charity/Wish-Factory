@@ -1,10 +1,11 @@
 # Wish-Factory
 We are 'Code4Charity'.  
-We volunteer to make make meaningful Sites, Apps, Browser Extensions, Robots, Plugins, Packages 
-- and code-optimization to save electric energy & human time!
+We volunteer to make make helpful Sites, Apps,  <br> Browser Extensions, Plugins, robots, packages & code-optimization, <br> to save human time & electric energy.
 
-All you have to do is post an 'issue' here.  https://github.com/code4charity/Wish-Factory/issues/new
-- Of course we will prioritize. (However chances are, a volunteer will share your feelings, even if it isn't one of the biggest cause on the list.)
+<br>
+All you have to do is post a 'issue'/concept/idea here. 
+<br> https://github.com/code4charity/Wish-Factory/issues/new
+<br> Of course we will prioritize a lot. <br> However chances are, a volunteer will share your feelings, even if it isn't one of the biggest cause on the list.
 
 ## 'GUIDE' 
 'GUIDE'    |  a good proposal might include the following:
