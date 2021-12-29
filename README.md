@@ -1,6 +1,6 @@
 # Wish-Factory
-We are 'Code4Charity'. 
-We volunteer to make make meaningful Sites, Apps, Browser Extensions, Plugins, Packages.
+We are 'Code4Charity'.  
+We volunteer to make make meaningful 1. Sites, Apps, Browser Extensions, Robots, Plugins, Packages - and code-optimization to save electric energy & human time!
 
 All you have to do is post an 'issue' here.  https://github.com/code4charity/Wish-Factory/issues/new
 
