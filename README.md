@@ -34,9 +34,9 @@ Proposal Section | Details
 ------------ | ----------
 *Problem* | Some sites ('web-apps') overwrite standards like CTRL+F, CTRL+C, Right-click, text-selection,.. - This can just be confusing / unexpected or real bad UX making the intention impossible. (And historically many little sites thoughts of preventing copying their text. And some ads sneaked text into clipboards (more reasonable if it is source attributions)
 *Solution* |  https://chrome.google.com/webstore/detail/hid-control-prevention/ijngdimmjkngoglcjaheoadciaalbafl 
-*Side Effects* | site specific use: no unintended side effects.  <br> Also, globally, unfreezing Text-Selection & CTRL+C should be fine on almost every site <br>, while for anybody unfreezing Ctrl+F and Right-click by default, much or all of the top50000 sites should be whitelisted.  - While a best all  unfreezing/backlisting or whitelisting should be crowdsoured.
+*Side Effects* | site specific use: no unintended side effects.  <br> Also, globally, unfreezing Text-Selection & CTRL+C should be fine on almost every site <br>, while for anybody unfreezing Ctrl+F and Right-click by default, much of the top10000 sites should be whitelisted.  - While a best all  unfreezing/backlisting or whitelisting should be crowdsoured.
 *Alternatives* | none. 
-*Relevance/Scope* | could have a many users?  besides  1. Browser extensions as a whole are not as popular as a and 2. people tend not to invest a minute to understand something just to save 20 minutes of confusion spread over years? 🤔 (unless they might get a new computer and forget the old setup)   
+*Relevance/Scope* | could have a many users?  besides: <br<  1. Browser extensions as a whole are not popular like apps <br> 2. people tend not to invest a minute to understand something just to save 20 minutes of confusion spread over years? 🤔 (unless they might get a new computer and forget the old setup)   
 
 ### YouTube Dislike Count
 
