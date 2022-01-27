@@ -4,13 +4,13 @@ We are [Code4Charity].
 
 [Code4Charity]: https://github.com/code4charity
 
-We volunteer to make make helpful sites, apps, browser extensions, plugins, robots, packages & code optimization, to save human time & electric energy.
+We volunteer to make make helpful sites, apps, browser extensions, plugins, robots, packages & code optimization (to save human time & electric energy)
 
 All you have to do is post an issue here, and describe your concept or idea:
 
 https://github.com/code4charity/Wish-Factory/issues/new
 
-Of course we will prioritize a lot. However, chances are a volunteer will share your feelings, even if it isn't one of the biggest causes on the list.
+Of course we will prioritize a lot. However, chances are a volunteer will share your feelings, even if is far from the biggest causes on the list.
 
 ## GUIDE
 
