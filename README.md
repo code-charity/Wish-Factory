@@ -2,7 +2,7 @@
 
 We are [Code4Charity].
 
-[Code4Charity]: https://github.com/code4charity
+[Code for Charity]: https://github.com/code-for-charity
 
 We volunteer to make make helpful sites, apps, browser extensions, plugins, robots, packages & code optimization (to save human time & electric energy)
 
