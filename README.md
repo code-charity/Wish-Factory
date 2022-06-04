@@ -1,8 +1,8 @@
 # Wish-Factory
 
-We are [Code for Charity](https://github.com/code-for-charity)
+we are [Code for Charity](https://github.com/code-for-charity),
 
-We volunteer to make make helpful sites, apps, browser extensions, plugins, robots, packages & code optimization,
+we volunteer to make make helpful apps, (sites, browser extensions, plugins, robots, modules, packages & code optimization,)
 
 to assist humans (& save electric energy).
 
