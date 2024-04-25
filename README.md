@@ -6,8 +6,7 @@ We volunteer to make make helpful apps, sites, browser extensions, plugins, robo
 
      -  Of course we might have to prioritize a lot. However there still are chance a volunteer will help you, even if is far from the biggest causes on the list & unfunded
 
-     -  We use the Github's "[discussions](https://github.com/code-charity/Wish-Factory/discussions?discussions_q=is%3Aopen+sort%3Atop)"-section, just because it allows sorting by upvotes
-
+     -  We use Github's "[discussions](https://github.com/code-charity/Wish-Factory/discussions?discussions_q=is%3Aopen+sort%3Atop)"-section, because it allows sorting by upvotes.  ( _even it doesn't allow bulk-labeling_ )
     
 Teamplate Proposal | ( _A concise proposal might includes the following:..._ )
 ----------- | ----------
