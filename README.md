@@ -4,19 +4,16 @@ we are [Code for Charity](https://github.com/code-for-charity),
 
 we volunteer to make make helpful apps, sites, browser extensions, plugins, robots, modules, packages & code optimization!), to assist people & save electricty too.
 
-------
-
- -  All you got to do to wish, is post an "issue" here to describe your concept or idea:  
+ -  All you got to do is wish (and post a [discussion](https://github.com/code-charity/Wish-Factory/discussions) here, to describe your concept or idea)  
     https://github.com/code4charity/Wish-Factory/issues/new 
 
      -  Of course we might have to prioritize a lot. However, chances are, a volunteer will share your feelings, even if is far from the biggest causes on the list.
 
-## GUIDE
+     - We use the Github's "[discussions](https://github.com/code-charity/Wish-Factory/discussions)"-section, just because it allows sorting by upvotes
 
-A concise proposal might include the following:
-
-Proposal Section | CDetails
------------- | ----------
+    
+Proposal | ( _A concise proposal might includes the following:..._ )
+----------- | ----------
 *Problem* | Does your idea relate to a problem? Which problem is it? ("One's always reasonably frustrated when...?")
 *Solution* |  _if you can imagine one_ - A clear and concise description of what you are looking for. <br> Please add screenshots or sketches if it will help at all.
 *Alternatives* | What else did you consider? <br> - All alternative solutions you considered (be they similar, inferior or superior).
@@ -27,9 +24,10 @@ Proposal Section | CDetails
 *Miscellaneous* | ___
 
 
-## EXAMPLES (Browser extensions, not so easy or obvious)
-### "unFreeze Me - HID control prevention"
-Proposal Section | Details
+## EXAMPLES 
+## (Browser extensions, not so easy or obvious)
+
+"unFreeze Me - HID control prevention" | ...
 ------------ | ----------
 *Problem* | Some sites ('web-apps') overwrite standards like CTRL+F, CTRL+C, Right-click, text-selection,.. - This can just be confusing / unexpected or real bad UX making the intention impossible. (And historically many little sites thoughts of preventing copying their text. And some ads sneaked text into clipboards (more reasonable if it is source attributions)
 *Solution* |  We are got this already: https://chrome.google.com/webstore/detail/hid-control-prevention/ijngdimmjkngoglcjaheoadciaalbafl 
@@ -37,9 +35,9 @@ Proposal Section | Details
 *Side Effects* | Site- specific use only yet, thus no unintended side effects.  <br> Also, globally, unfreezing Text-Selection & CTRL+C should be fine on almost every site <br>, while for anybody unfreezing Ctrl+F and Right-click by default, much of the top500 (or more) sites can be whitelisted.  - While at best all unfreezing/backlisting or whitelisting on popular sites (maybe on 2000 in 100000) can be through a global blacklist, Crowdsoured and only active by default on unpopular pages. Then the relevance could rise, because it would help automatically.
 *Alternatives* | https://greasyfork.org/en/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9
 
-### YouTube Dislike Count
+---
 
-Proposal Section | Details
+"YouTube Dislike Count" | ...
 ------------ | -------------
 *Problem* | YouTube hides the number of dislikes, even though dislikes can help to quickly identify some controversial, bad or misunderstood videos.<br> Examples: 1. _________  2. _________ 3. _________   ............
 *Scope*  | Maybe a billion people considered this information repeatedly before, so it might be worth it for many of them to individually decide to keep up the "habit" or "declutter."
