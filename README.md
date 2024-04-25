@@ -1,8 +1,6 @@
 # Wish-Factory
 
-we are [Code for Charity](https://github.com/code-for-charity),
-
-we volunteer to make make helpful apps, sites, browser extensions, plugins, robots, modules, packages & code optimization!), to assist people & save electricty too.
+We volunteer to make make helpful apps, sites, browser extensions, plugins, robots, modules, packages & code optimization!), to assist people & save electricty too.
 
  -  All you got to do is wish (and post a [discussion](https://github.com/code-charity/Wish-Factory/discussions) here, to describe your concept or idea)  
     https://github.com/code4charity/Wish-Factory/issues/new 
