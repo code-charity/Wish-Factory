@@ -2,15 +2,14 @@
 
 We volunteer to make make helpful apps, sites, browser extensions, plugins, robots, modules, packages & code optimization!), to assist people & save electricty too.
 
- -  All you got to do is wish (and post a [discussion](https://github.com/code-charity/Wish-Factory/discussions) here, to describe your concept or idea)  
-    https://github.com/code4charity/Wish-Factory/issues/new 
+ -  All you need is a real & good wish, to post a [**<code>proposal</code>**](https://github.com/code-charity/Wish-Factory/discussions?discussions_q=is%3Aopen+sort%3Atop) to share / describe that concept.  
 
-     -  Of course we might have to prioritize a lot. However, chances are, a volunteer will share your feelings, even if is far from the biggest causes on the list.
+     -  Of course we might have to prioritize a lot. However there still are chance a volunteer will help you, even if is far from the biggest causes on the list & unfunded
 
-     - We use the Github's "[discussions](https://github.com/code-charity/Wish-Factory/discussions)"-section, just because it allows sorting by upvotes
+     -  We use the Github's "[discussions](https://github.com/code-charity/Wish-Factory/discussions?discussions_q=is%3Aopen+sort%3Atop)"-section, just because it allows sorting by upvotes
 
     
-Proposal | ( _A concise proposal might includes the following:..._ )
+Teamplate Proposal | ( _A concise proposal might includes the following:..._ )
 ----------- | ----------
 *Problem* | Does your idea relate to a problem? Which problem is it? ("One's always reasonably frustrated when...?")
 *Solution* |  _if you can imagine one_ - A clear and concise description of what you are looking for. <br> Please add screenshots or sketches if it will help at all.
@@ -21,9 +20,11 @@ Proposal | ( _A concise proposal might includes the following:..._ )
 *Further Reading* | ___
 *Miscellaneous* | ___
 
+---
 
 ## EXAMPLES 
-## (Browser extensions, not so easy or obvious)
+...
+## Two existing browser extensions: 
 
 "unFreeze Me - HID control prevention" | ...
 ------------ | ----------
@@ -37,7 +38,7 @@ Proposal | ( _A concise proposal might includes the following:..._ )
 
 "YouTube Dislike Count" | ...
 ------------ | -------------
-*Problem* | YouTube hides the number of dislikes, even though dislikes can help to quickly identify some controversial, bad or misunderstood videos.<br> Examples: 1. _________  2. _________ 3. _________   ............
+*Problem* | YouTube hides the number of dislikes, even though dislikes can help to quickly identify some controversial, bad or misunderstood videos.<br>  Examples: 1. _________  2. _________ 3. _________   ............
 *Scope*  | Maybe a billion people considered this information repeatedly before, so it might be worth it for many of them to individually decide to keep up the "habit" or "declutter."
 *Side Effects* | (Some video creators might be embarassed/sad about their videos with many dislikes, which can include well reasoned down-votes as well as some kind of silly herd behavior or bullying.)
 *Context* | [YouTube Official Blog: An update to dislikes on YouTube](https://blog.youtube/news-and-events/update-to-youtube/)
